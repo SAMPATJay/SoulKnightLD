@@ -13,6 +13,9 @@ TagManager:
   - trig7
   - trig8
   - trig9
+  - trig10
+  - trig11
+  - trig12
   layers:
   - Default
   - TransparentFX
