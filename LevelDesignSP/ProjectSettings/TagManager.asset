@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - trig1
+  - trig2
+  - trig3
+  - trig4
+  - trig5
+  - trig6
+  - trig7
+  - trig8
+  - trig9
   layers:
   - Default
   - TransparentFX
